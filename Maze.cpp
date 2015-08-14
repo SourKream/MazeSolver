@@ -1,7 +1,3 @@
-// YOU DO NOT NEED TO MODIFY THIS INSTRUCTOR-PROVIDED FILE.
-// Your code should work properly with an unmodified version of this file.
-
-
 #include "Maze.h"
 #include "misc.h"
 

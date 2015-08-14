@@ -1,6 +1,3 @@
-// YOU DO NOT NEED TO MODIFY THIS INSTRUCTOR-PROVIDED FILE.
-// Your code should work properly with an unmodified version of this file.
-
 #ifndef POINT_H
 #define POINT_H
 

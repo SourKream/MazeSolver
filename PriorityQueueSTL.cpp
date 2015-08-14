@@ -1,6 +1,3 @@
-// YOU DO NOT NEED TO MODIFY THIS INSTRUCTOR-PROVIDED FILE.
-// Your code should work properly with an unmodified version of this file.
-
 #include "PriorityQueueADT.h"
 #include "comparator.h"
 #include "Point.h"
@@ -56,13 +53,3 @@ int PriorityQueueSTL::size()
 {
 	return pq->size();
 }
-
-/*
-template <typename T>
-void DequeSTL<T>::print()
-{
-	for(int i = 0; i < dq->size(); i++)
-	{
-		cout << dq->at(i) << endl;
-	}
-}*/

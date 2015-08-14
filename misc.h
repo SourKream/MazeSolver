@@ -1,6 +1,3 @@
-// YOU DO NOT NEED TO MODIFY THIS INSTRUCTOR-PROVIDED FILE.
-// Your code should work properly with an unmodified version of this file.
-
 #ifndef MISC_H
 #define MISC_H
 
