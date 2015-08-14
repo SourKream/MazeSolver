@@ -1,8 +1,3 @@
-// YOU DO NOT NEED TO MODIFY THIS INSTRUCTOR-PROVIDED FILE.
-// Your code should work properly with an unmodified version of this file.
-
-//#include "DequeSTL.h"
-
 #include "DequeADT.h"
 
 #include <deque>
@@ -28,7 +23,6 @@ class DequeSTL : public DequeADT<T> {
 		void pop_front();	
 		void pop_back();	
 		int size();
-		//void print();
 
 };
 
@@ -97,13 +91,3 @@ int DequeSTL<T>::size()
 {
 	return dq->size();
 }
-
-/*
-template <typename T>
-void DequeSTL<T>::print()
-{
-	for(int i = 0; i < dq->size(); i++)
-	{
-		cout << dq->at(i) << endl;
-	}
-}*/
